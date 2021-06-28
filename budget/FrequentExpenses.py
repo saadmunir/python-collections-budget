@@ -28,3 +28,5 @@ ax.bar(categories, count)
 ax.set_title(r"# of Purchases by Category")
 
 plt.show()
+
+print(top5)
