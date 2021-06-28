@@ -1,8 +1,3 @@
-import os
-
-cwd = os.getcwd()
-os.chdir('C:/Users/Agne/Desktop/python-collections-budget')
-
 from budget.Expense import *
 import collections
 import matplotlib.pyplot as plt
