@@ -8,6 +8,7 @@ class Expense():
         self.category = category
         self.amount = amount
 
+
     class Expenses():
         def __init__(self):
             self.list = []
